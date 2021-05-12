@@ -11,7 +11,7 @@
     "ant-design-pro": "^2.3.2",
     "antd": "^3.26.6",
     "leaflet": "^1.6.0",
-    "mathjs": "^6.5.0",
+    "mathjs": "^7.5.1",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
